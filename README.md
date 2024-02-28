@@ -1,5 +1,5 @@
 # Foot Sensor App
-Web based application written in Python using the Plotly Dash framework for data visualization. The application presents a graphical visualization of measurements of monitoring device simulator which provides 'real time'measurements of pressure of feet on the ground of real people.
+Web based application written in Python using the Plotly Dash framework for data visualization. The application presents a graphical visualization of measurements of monitoring device simulator which provides 'real time'measurements of pressure of feet on the ground of real people. 
 
 
 ## How to run?
